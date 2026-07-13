@@ -9,9 +9,9 @@ Edited with Krita
 For CrossPoint 1.4.1
 
 * Turn `Show Hidden Files` on in system settings on your device
-* Open the web file transfer GUI in you browser
-* Create a new folder on your with the name `.sleep`
-* Download the zip files from "Releases" and unpack it
+* Open the web file transfer GUI in your browser
+* Create a new folder on your device with the name `.sleep`
+* Download the zip file from "Releases" and unpack it
 * Upload all the `.bmp` files to the `.sleep` folder
 * In you device setting select `Custom` as the sleep sceen
 
