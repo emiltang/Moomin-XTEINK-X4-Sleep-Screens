@@ -2,9 +2,11 @@
 
 Credits [u/kalorsk](https://www.reddit.com/r/Moomins/s/XIqZLCVmuF)
 
+Edited with Krita
+
 ## Installation
 
-For crosspoint 1.4.1
+For CrossPoint 1.4.1
 
 * Turn `Show Hidden Files` on in system settings on your device
 * Open the web file transfer GUI in you browser
